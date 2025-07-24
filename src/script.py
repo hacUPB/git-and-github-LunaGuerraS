@@ -4,7 +4,7 @@ print("Bienvenido al programa de cálculo de promedios.")
 print("Ingresa números uno por uno. Escribe 'salir' para terminar.")
 
 # Lista para almacenar los números
-numeros = []
+    numeros = []
 
 while True:
     entrada = input("Ingresa un número (o escribe 'salir'): ")
