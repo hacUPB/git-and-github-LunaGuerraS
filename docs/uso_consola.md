@@ -5,6 +5,8 @@ En el curso se aprendió a como usar Git Bash para navegar entre carpetas, edita
 Que diferencia un repositorio de una carpeta normal: Es solo un contenedor de archivos u subcarpetas y no tiene historial de cambios mientras que un repositorio puede registrar los cambios que se hacen, tiene versiones anteriores de los proyectos y se puede compartir con otras personas o usar desde distintos dispositivos.
 
 # Principales comandos:
+
+    clear: Limpiar Git Bash del todo el codigo
     pwd: Saber en donde estamos ubicados.
     ls: Listar archivos y carpetas
     cd: Ingresar a una carpeta
@@ -22,5 +24,6 @@ Que diferencia un repositorio de una carpeta normal: Es solo un contenedor de ar
     git push: Sincronizar el repositorio local con el remoto
     git remote add: Enlazar el repositorio local con el remoto
     git clone: Clonar un repositorio
+    git config --global user.name: Establece el nombre de usuario para todos los repositorios en su sistema para su usuario actual
 
 
