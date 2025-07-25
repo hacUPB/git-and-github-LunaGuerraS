@@ -15,4 +15,7 @@
 5) Agregar los cambios con el comando:
     git commit -m
 
+6) Para verificar el estado usar el comando:
+    git status
+
 **Listo, ya esta creado el repositorio local**
