@@ -17,8 +17,18 @@ En este repositorio se encuentran varios documentos que explican de forma sencil
 ## **Tabla de contenido:**
 
 [conceptos aprendidos y lista de comandos](./docs/uso_consola.md)
+
 [Como crear un repositorio local](./docs/repositorio_local.md)
+
 [Como crear un repositorio remoto y sincronizarlo](./docs/repositorio_remoto.md)
+
+[Imagenes del paso 1](./imagenes/Imagenes_paso1)
+
+[Imagenes del paso 2](./imagenes/Imagenes_paso2)
+
+[Imagenes del paso 3](./imagenes/Imagenes_paso3)
+
+[Espacio disponible para la Coevaluación](./Coevaluación/Coevaluación_nota_observaciones)
 
 ### **Descripción de la Actividad:**
 
