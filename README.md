@@ -7,7 +7,7 @@ Id.:  000569145
 # Evaluación:
 
 ## **Descripción del repositorio:**
-En este repositorio se encuentra una serie de documentos en los cuales se describe que es un repositorio (remoto y local), comandos más utilizados al momento de navegar y crear repositorios en Git Bash.
+En este repositorio se encuentran varios documentos que explican de forma sencilla qué es un repositorio, tanto local como remoto, y cuáles son sus diferencias con una carpeta normal. También se incluyen los comandos más utilizados en Git Bash para navegar entre directorios, crear archivos y carpetas, así como para iniciar y sincronizar repositorios con plataformas como GitHub.
 
 ## Pasos para clonar y ejecutar un proyecto:
 1) se busca un repostorio para clonar y se copia en enlace del repositorio.
@@ -16,7 +16,7 @@ En este repositorio se encuentra una serie de documentos en los cuales se descri
 
 ## **Tabla de contenido:**
 
-[conceptos aprendidos y lista de comandos](./docs/uno_consola.md)
+[conceptos aprendidos y lista de comandos](./docs/uso_consola.md)
 [Como crear un repositorio local](./docs/repositorio_local.md)
 [Como crear un repositorio remoto y sincronizarlo](./docs/repositorio_remoto.md)
 
